@@ -12,6 +12,8 @@ This project demonstrates **time-series forecasting concepts** and front-end eng
 - **Robust UX** with non-blocking training loop, status updates, error handling, and reset button
 - **Lightweight, dependency-free** (runs fully in the browser, no backend required)
 
+## Try now!
+https://sulatinooo.github.io/Stock-Price-Predictor/
 
 ## ⚠️ Disclaimer
 This project is for **educational and demonstration purposes only**.  
